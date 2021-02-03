@@ -1,6 +1,6 @@
 {
     "style": {
-        "color": {
+        "customcolors": {
             "white": {
                 "type": "SOLID",
                 "value": "#ffffff"
