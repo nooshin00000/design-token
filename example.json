@@ -3,27 +3,27 @@
         "color": {
             "white": {
                 "type": "SOLID",
-                "value": "#ffffff"
+                "value": "0xffffff"
             },
             "black": {
                 "type": "SOLID",
-                "value": "#000000"
+                "value": "0x000000"
             },
             "primary-colour": {
                 "type": "SOLID",
-                "value": "#13c9d9"
+                "value": "0x13c9d9"
             },
             "shapes-colour": {
                 "type": "SOLID",
-                "value": "#9ae8f0"
+                "value": "0x9ae8f0"
             },
             "body-text": {
                 "type": "SOLID",
-                "value": "#828282"
+                "value": "0x828282"
             },
             "bg-colour": {
                 "type": "SOLID",
-                "value": "#f2f2f2"
+                "value": "0xf2f2f2"
             }
         }
     }
